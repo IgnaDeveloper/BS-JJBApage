@@ -1,0 +1,21 @@
+.bg-negro {
+  background-color: black;
+}
+.first-seccion img {
+  height: 65vh;
+}
+
+.carousel img {
+  max-height: 65vh;
+}
+.poderes img {
+  max-width: 100%;
+}
+.ordenjojos img {
+  max-width: 100%;
+}
+
+#alljojos img:hover {
+  transform: scale(1.04);
+  filter: brightness(1.1);
+}
